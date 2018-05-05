@@ -1,0 +1,19 @@
+<resources>
+    <dimen name="item_height">68dp</dimen>
+    <dimen name="menu_item_height">52dp</dimen>
+    <dimen name="margin">5dip</dimen>
+    <dimen name="margin_img">10dip</dimen>
+    <dimen name="item_margin_left">15dp</dimen>
+    <dimen name="item_margin_left_10dp">10dip</dimen>
+    <dimen name="content_text_normal">18sp</dimen>
+    <dimen name="content_text_16sp">16sp</dimen>
+    <dimen name="content_text_14sp">14sp</dimen>
+    <dimen name="content_text_small">12sp</dimen>
+    <dimen name="content_text_8sp">8sp</dimen>
+    <dimen name="content_text_10sp">8sp</dimen>
+    <dimen name="drawable_circle_radius">8dp</dimen>
+    <dimen name="wechat_img_height">52dp</dimen>
+    <dimen name="wechat_hdimg_layout">60dp</dimen>
+    <dimen name="profile_height">60dp</dimen>
+    <dimen name="contact_item_height">55dp</dimen>
+</resources>

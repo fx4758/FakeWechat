@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorLightGrey">#ececec</color>
+    <color name="colorLightTransparentGrey">#0fececec</color>
+    <color name="colorTransparent">#00ffffff</color>
+    <color name="colorDarkGrey">#abaaaa</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorRed">#ff4043</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorGreen">#2cf903</color>
+    <color name="colorBlue">#02c7fd</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorLightDark">#464644</color>
+    <color name="colorLightDarkLevel2">#40403e</color>
+    <color name="colorDark">#3e3e3d</color>
+    <color name="colorDarkGreen">#02bf1f</color>
+    <color name="colorMusicTransparentBar">#10000000</color>
+    <color name="colorMusicStatusBar">#678cb9</color>
+</resources>

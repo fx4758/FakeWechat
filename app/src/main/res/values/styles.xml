@@ -1,0 +1,33 @@
+<resources>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="PopupWindowAnimationLT">
+        <item name="android:windowEnterAnimation">@anim/popupwindow_show_anim_from_left_top</item>
+        <item name="android:windowExitAnimation">@anim/popupwindow_hide_anim_from_left_top</item>
+    </style>
+    <style name="PopupWindowAnimationRT">
+        <item name="android:windowEnterAnimation">@anim/popupwindow_show_anim_from_right_top</item>
+        <item name="android:windowExitAnimation">@anim/popupwindow_hide_anim_from_right_top</item>
+    </style>
+    <style name="PopupWindowAnimationRB">
+        <item name="android:windowEnterAnimation">@anim/popupwindow_show_anim_from_right_bottom</item>
+        <item name="android:windowExitAnimation">@anim/popupwindow_hide_anim_from_right_bottom</item>
+    </style>
+    <style name="PopupWindowAnimationLB">
+        <item name="android:windowEnterAnimation">@anim/popupwindow_show_anim_from_left_bottom</item>
+        <item name="android:windowExitAnimation">@anim/popupwindow_hide_anim_from_left_bottom</item>
+    </style>
+
+</resources>
