@@ -7,3 +7,6 @@
 ####  置顶聊天
 #### 自动回复消息
 #### 自动添加Time Stamp
+
+![image](https://github.com/fx4758/FakeWechat/blob/master/image/1.png?raw=false)
+![image](https://github.com/fx4758/FakeWechat/blob/master/image/2.png?raw=false)
